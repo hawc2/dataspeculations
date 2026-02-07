@@ -1,7 +1,9 @@
 baseURL = '/'
 languageCode = 'en-us'
+title = 'Data Speculations: A National Forum'
+copyright = 'Data Speculations. All rights reserved.'
 theme = "gohugo-theme-ananke"
-canonifyURLS=true
+canonifyURLS = true
 [menu]
 [[menu.main]]
   name = 'Home'

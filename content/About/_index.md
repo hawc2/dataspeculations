@@ -53,7 +53,7 @@ Forum Opening
 
 *Working Session*: The Future of Library Stewardship of Copyrighted Collections as Data
 
-![image](/images/sf_book_viz.png)
+![image](/images/sf_book_viz.jpg)
 
 ## SF Nexus
 The SF Nexus comprises a collaborative network of research and public libraries with collections of SF. The SF Nexus aspires to make a comprehensive dataset of science fiction literature. 

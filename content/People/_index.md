@@ -17,7 +17,7 @@ menu:
 
 ## Legal Team
 * Brandon Butler, Executive Director, Re:Create Coalition 
-* [Peter Jaszi]([https://www.wcl.american.edu/community/faculty/profile/jaszi/bio](https://www.usefairuse.com/about)), Professor of Law Emeritus, American University Washington College of Law
+* [Peter Jaszi](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio), Professor of Law Emeritus, American University Washington College of Law
 * [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Director, Scholarly Communication & Information Policy, University of California Berkeley Library
 
 # Practitioners Advisory Board
