@@ -1,4 +1,5 @@
 ---
+title: " "
 cascade:
   featured_image: '/images/logo_background.png'
 ---
