@@ -1,9 +1,7 @@
 ---
+title: "Events"
 cascade:
   featured_image: '/images/background.png'
-menu:
-  main:
-    weight: 2
 ---
 Data Speculations has been in development since 2023, and work has been ongoing for over a year to organize the National Forum. The Project Team is presenting at various academic conferences in the field to raise awareness and solicit feedback. 
 

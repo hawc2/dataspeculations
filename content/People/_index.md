@@ -1,9 +1,7 @@
 ---
+title: "People"
 cascade:
   featured_image: '/images/background.png'
-menu:
-  main:
-    weight: 3
 ---
 ![image](/images/imls_logo_2c.jpg)
 
