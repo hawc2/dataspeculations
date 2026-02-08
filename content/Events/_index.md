@@ -1,5 +1,4 @@
 ---
-description: "Data Speculations Programming"
 cascade:
   featured_image: '/images/background.png'
 menu:
