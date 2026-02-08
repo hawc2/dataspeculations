@@ -2,9 +2,6 @@
 title: "A National Forum"
 cascade:
   featured_image: '/images/background.png'
-menu:
-  main:
-    weight: 1
 ---
 The Institute of Museum and Library Services-sponsored National Forum, *Data Speculations*, seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
